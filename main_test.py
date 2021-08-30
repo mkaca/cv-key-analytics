@@ -20,7 +20,8 @@ while True:
 
 """
 Step 1:
-- get background keyboard area
+- get background keyboard area -->apple keyboard so I can use the dimensions given online!!
+- setup area where a webcam is watching the keyboard and my fingers from above... 8020 should suffice
 - define area that correspond to different keys: dict of each keyboard_key: <bounding_box>
 - on any key input, analyze key that was pressed, then look at what fingertip is on said area
 """
